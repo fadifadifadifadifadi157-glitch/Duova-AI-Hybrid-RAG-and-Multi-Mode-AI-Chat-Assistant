@@ -1,4 +1,4 @@
-# 🌀 Duova AI — Hybrid RAG & Conversational Intelligence
+# 🌀 Duova AI — Hybrid RAG & Multi-Mode AI Chat Assistant
 
 Duova AI is a Streamlit web application that lets you **chat with your PDF documents** using Retrieval-Augmented Generation (RAG), and also switch to a **general-purpose AI assistant** with selectable personas.
 
